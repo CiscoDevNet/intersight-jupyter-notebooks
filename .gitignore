@@ -4,3 +4,5 @@ secret-lab-key.txt
 key/SecretKey.txt
 key/SecretKey.txt.bak
 key/secret-lab-key.txt
+__pycache__
+experimenting
