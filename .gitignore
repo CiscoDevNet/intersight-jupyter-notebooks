@@ -6,3 +6,5 @@ key/SecretKey.txt.bak
 key/secret-lab-key.txt
 __pycache__
 experimenting
+.ipnb_checkpoints
+.DS_Store
